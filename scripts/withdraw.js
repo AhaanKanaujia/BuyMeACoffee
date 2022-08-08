@@ -7,6 +7,7 @@ async function getBalance(provider, address) {
 }
 
 async function main() {
+    // enter address on goerli test network to which smart contract is deployed
     const contractAddress = "0xbD01835D2D833FFEEcdbF68A15C1f5Cb54726Eed";
     const contractABI = abi.abi;
 
