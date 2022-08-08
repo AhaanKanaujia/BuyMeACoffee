@@ -43,4 +43,4 @@ Run the Development Sever:
 npm run dev
 ```
 
-The app is deployed to http://localhost:3000/, where you can connect a wallet and send tips to the user on a test network. 
+The app is deployed to http://localhost:3000/, where you can connect your wallet and send tips to the user on a test network. 
