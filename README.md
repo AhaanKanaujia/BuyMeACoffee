@@ -36,11 +36,3 @@ Update contract address, and withdraw tips recieved:
 ```
 npx hardhat run scripts/withdraw.js
 ```
-
-Run the Development Sever:
-
-```
-npm run dev
-```
-
-The app is deployed to http://localhost:3000/, where you can connect your wallet and send tips to the user on a test network. 
